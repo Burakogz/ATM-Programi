@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\ASUS\source\repos\ATM programı\ATM programı\Source.c(26,4): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\ASUS\source\repos\ATM programı\ATM programı\Source.c(41,3): warning C4013: 'system' undefined; assuming extern returning int
+  ATM programı.vcxproj -> C:\Users\ASUS\source\repos\ATM programı\x64\Debug\ATM programı.exe
